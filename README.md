@@ -35,7 +35,7 @@
 ## Illustrations and Demo
 #### Home Screen Display
 
-<img width="200" src="https://user-images.githubusercontent.com/101746747/191217942-eccc6fd7-af90-4a74-be99-bb80a92b74bb.png">
+<img width="200" alt="Screen Shot 2022-09-20 at 10 09 03 AM" src="https://user-images.githubusercontent.com/102189342/191309896-1a19bfc9-3af9-42c6-b562-7bcdc6cce7b6.png">
 
 ----
 #### Modal Display
