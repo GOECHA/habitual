@@ -93,11 +93,28 @@ Visit the published site [here]()
 3. `cd` into the root of the project directory
 4. Run `npm install`
 5. Run `npm start`
+6. Download Expo Go app
 ----
+
+![IMG_7017](https://user-images.githubusercontent.com/102887963/191565442-a55d183b-9485-44db-8e74-7de837d974ed.jpg)
+
+7. Upon start you will see a QR code in the command line. 
+<img width="738" alt="Screen Shot 2022-09-21 at 11 43 27 AM" src="https://user-images.githubusercontent.com/102887963/191564520-ff90176e-47a5-43df-b012-0ec23540baa6.png">
+8. Using your smart phone, scan the QR code and open the app in the Expo Go Simulator on your computer or Expo Go App on your device
+----
+
+
 ### Please do the following to run API:
+
+~~~~~~~~****** API has been deployed, no need for local server ******~~~~~~~~
+
 1. Clone down https://github.com/GOECHA/mantras-api
 2. npm install
 3. node server.js
+
+
+
+
 
 
 ## Contributors
@@ -111,10 +128,9 @@ Visit the published site [here]()
  - [MDN](http://developer.mozilla.org/en-US/)
  - [YouTube](https://www.youtube.com/)
  - [W3Schools](https://www.w3schools.com/)
- - [Heroku cloud PaaS](https://heroku.com/)
- - [Router docs](https://reactrouter.com/)
- - [Cypress docs](https://docs.cypress.io/guides/overview/why-cypress)
+ - [React Native Docs](https://reactnative.dev/)
  - [Medium](https://medium.com/)
+ - [React Native Linear Gradient](https://www.npmjs.com/package/react-native-linear-gradient)
 
 ## Project Specs
  - The project spec & rubric can be found [here](https://frontend.turing.edu/projects/module-3/stretch.html)
