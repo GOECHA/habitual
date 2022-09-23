@@ -17,7 +17,7 @@
 ## Learning Goals
 - Gain competency with React Native fundamentals
 - Practice refactoring
-- Create a multi-page UX using React Native Navigation
+- Create a multi-page UI/UX using React Native Navigation
 
 ## Technologies and Tools
 - ReactNative
@@ -29,8 +29,7 @@
 - ReactPlayer
 - GitHub Projects
 - GitHub Issues
-- Figma
-- FigJam
+- Figma 
 
 ## Illustrations and Demo
 #### Home Screen Display
@@ -62,16 +61,23 @@
 #### Demo
 <img width="200" src="https://user-images.githubusercontent.com/101746747/191220291-6e7850a4-4617-4ad9-b0de-2ae99412c8cc.mov">
 
+#### Wire Frame
+<img width="400" alt="Screen Shot 2022-09-23 at 3 07 54 PM" src="https://user-images.githubusercontent.com/102189342/192057376-ab4d5270-abb1-4baf-bf6f-f390515bd931.png">
+
+
 ## Project Reflections
 #### Wins
-- Successfully rendered API Calls
-- Working in React Native
+- Successfully consumed API data
+- Founded fundamentals in React-Native
+- Implemented best practices
 - Successful use of React Native Modal
 - Successful use of React Native Carousel
 - Creating Express API
-- Working with React Navigation
-- Illustrations for icons
-- Working with Figma
+- Working with React Native Tab Navigation
+- Icon design with Adobe Illustrator
+- Wireframing design for ios UI/UX to scale with Figma 
+
+
 
 #### Challenges
 - Sourcing accurate documentation for React Native 
@@ -131,6 +137,7 @@ Visit the published site [here](https://expo.dev/@maia-cochran/habitual?serviceT
  - [React Native Docs](https://reactnative.dev/)
  - [Medium](https://medium.com/)
  - [React Native Linear Gradient](https://www.npmjs.com/package/react-native-linear-gradient)
+ 
 
 ## Project Specs
  - The project spec & rubric can be found [here](https://frontend.turing.edu/projects/module-3/stretch.html)
