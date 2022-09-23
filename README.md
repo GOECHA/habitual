@@ -85,7 +85,7 @@ Future features could include:
 - Calendar to track and guide habit-making daily, weekly, and monthly
 
 ## Deployed Page
-Visit the published site [here]()
+Visit the published site [here](https://expo.dev/@maia-cochran/habitual?serviceType=classic&distribution=expo-go)
 
 ## Set Up
 1. Fork this repo
