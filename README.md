@@ -112,7 +112,7 @@ Visit the published site [here](https://expo.dev/@maia-cochran/habitual?serviceT
 
 ### Please do the following to run API:
 
-~~~~~~~~****** API has been deployed, no need for local server ******~~~~~~~~
+****** API has been deployed, no need for local server ******
 
 1. Clone down https://github.com/GOECHA/mantras-api
 2. npm install
