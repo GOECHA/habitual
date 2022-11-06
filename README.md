@@ -12,23 +12,21 @@
 - [Project Specs](#project-specs)
 
 ## Introduction
-- Habitual is an application built in React Native, based in IOS. This is an application that allows a user to browse through a list of quotes and save them to a list within the application for a daily dose of positive vibes.
+- Habitual is an application built in React Native, based in IOS. This is an application that allows a user to view a random mantra and choose to save the mantra to a list within the application for a daily dose of positive vibes.
 
 ## Learning Goals
 - Gain competency with React Native fundamentals
-- Practice refactoring
 - Create a multi-page UI/UX using React Native Navigation
+- Create a REST API in Express
 
 ## Technologies and Tools
 - ReactNative
-- JSX
 - npm
 - Node.js
 - Cypress Testing
 - Express API
 - ReactPlayer
 - GitHub Projects
-- GitHub Issues
 - Figma 
 
 ## Illustrations and Demo
